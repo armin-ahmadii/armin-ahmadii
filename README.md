@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valckyz
+- 👋 Hi, I’m Armin
 - 👀 I’m interested in Programming as a whole!
 - 🌱 I’m currently learning HTML & Java
 - 📫 How to reach me ---> ahrm#1769 on Discord!
