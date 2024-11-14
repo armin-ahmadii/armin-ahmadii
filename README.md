@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Armin
-- 👀 I’m interested in Programming as a whole!
-- 🌱 I’m currently learning HTML & Java
+- 👋 Hi, I’m Armin Ahmadi
+- 👀 I am a long term programming lover, currently studying Computer Science at Simon Fraser University in Vancouver, B.C.
+- 🌱 I’m currently learning Python, JavaScript, and HTML
 - 📫 How to reach me ---> ahrm#1769 on Discord!
 
 <!---
