@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Armin Ahmadi
-- 👀 I am a long term programming lover, currently studying Computer Science at Simon Fraser University in Vancouver, B.C.
+- 👀 I am a currently studying Computer Science at Simon Fraser University in Vancouver, B.C.
 - 🌱 I’m currently learning Python, JavaScript, and HTML
 - 📫 You can reach me on Discord at ahhhrm & at 06.armin.ahmadi@gmail.com
 
