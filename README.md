@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Armin Ahmadi
-- 👀 I am a currently studying Computer Science at Simon Fraser University in Vancouver, B.C.
-- 🌱 I’m currently learning Python, JavaScript, and HTML
-- 📫 You can reach me on Discord at ahhhrm & at 06.armin.ahmadi@gmail.com
+- 👀 I am a currently studying Computer Science at Simon Fraser University in Burnaby, B.C.
+- 📫 You can reach out to me on Discord at ahhhrm or via email at armin@arminahmadi.cc
 
 <!---
 Valckyz/Valckyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
