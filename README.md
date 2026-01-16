@@ -2,7 +2,7 @@
   <h1>Hi, I'm Armin Ahmadi 👋</h1>
   <p align="center">
     <strong>Computer Science Student @ Simon Fraser University</strong><br />
-    Full-Stack Developer | Algorithm Enthusiast | STEM Instructor
+    Student | Developer | Curious
   </p>
 
   <p align="center">
@@ -16,12 +16,7 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a second-year Computer Science student at **SFU** [cite: 39, 40] with a focus on building high-performance software and intelligent web applications. Recently, I’ve been diving deep into AI integration and algorithmic optimization.
-
-- [cite_start]🏆 **Hackathon Winner**: Recently took 1st place at the Re-Volt Hackathon (Jan 2026)[cite: 14, 15].
-- [cite_start]🧩 **Algorithm Enthusiast**: Developed a high-performance Rubik's Cube solver using IDA* search[cite: 9, 11].
-- [cite_start]🏫 **STEM Leader**: Experienced in teaching STEM concepts and managing recreational programs[cite: 29, 35].
-- [cite_start]💬 **Multilingual**: Proficient in English, French, and Persian[cite: 7].
+I am a second-year Computer Science student at **Simon Fraser University** with a focus on building high-performance software and intelligent web applications. Recently, I’ve been diving deep into AI integration and algorithmic optimization.
 
 ---
 
@@ -44,22 +39,5 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📂 Featured Projects
-
-#### [Re-Volt](https://github.com/arminahmadi/re-volt) (Jan 2026) [cite: 14]
-[cite_start]*Hackathon Winner* 🥇 [cite: 15]
-- [cite_start]Engineered a full-stack React application using the **Google Gemini API** for real-time hardware image analysis[cite: 15].
-- [cite_start]Designed a personalized onboarding flow to tailor DIY tech projects based on user skill levels[cite: 17].
-
-#### [Rubik's Cube Solver](https://github.com/arminahmadi/rubiks-solver) (Dec 2025) [cite: 10]
-- [cite_start]Developed a high-performance 3x3 solver in Java utilizing the **IDA* search algorithm**[cite: 11].
-- [cite_start]Optimized runtime via recursive backtracking to eliminate redundant object cloning, achieving a **95% success rate** within 10 seconds[cite: 12, 13].
-
-#### [SafeStride](https://github.com/arminahmadi/safestride) (Sept 2025) [cite: 19]
-- [cite_start]Built a web application that maps safe running routes by integrating neighborhood crime data and geolocation APIs[cite: 20].
-- [cite_start]Collaborated in a high-pressure team environment during the **2025 SFU Fall Hacks**[cite: 22].
 
 ---
