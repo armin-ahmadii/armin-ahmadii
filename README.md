@@ -2,7 +2,7 @@
   <h1>Hi, I'm Armin Ahmadi 👋</h1>
   <p align="center">
     <strong>Computer Science Student @ Simon Fraser University</strong><br />
-    Student | Developer | Curious
+    Student | Full Stack Developer
   </p>
 
   <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a second-year Computer Science student at **Simon Fraser University** with a focus on building high-performance software and intelligent web applications. Recently, I’ve been diving deep into AI integration and algorithmic optimization.
+I’m a second-year Computer Science student at SFU with a genuine passion for building software and apps. I’ve been spending a lot of my time lately diving into AI and learning how to integrate it into my projects. I love the process of building things from scratch and I'm always looking to learn more and level up my technical skills.
 
 ---
 
