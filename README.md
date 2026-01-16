@@ -49,34 +49,17 @@
 
 ### 📂 Featured Projects
 
-#### [cite_start][Re-Volt](https://github.com/arminahmadi/re-volt) (Jan 2026) [cite: 14]
+#### [Re-Volt](https://github.com/arminahmadi/re-volt) (Jan 2026) [cite: 14]
 [cite_start]*Hackathon Winner* 🥇 [cite: 15]
 - [cite_start]Engineered a full-stack React application using the **Google Gemini API** for real-time hardware image analysis[cite: 15].
 - [cite_start]Designed a personalized onboarding flow to tailor DIY tech projects based on user skill levels[cite: 17].
 
-#### [cite_start][Rubik's Cube Solver](https://github.com/arminahmadi/rubiks-solver) (Dec 2025) [cite: 10]
+#### [Rubik's Cube Solver](https://github.com/arminahmadi/rubiks-solver) (Dec 2025) [cite: 10]
 - [cite_start]Developed a high-performance 3x3 solver in Java utilizing the **IDA* search algorithm**[cite: 11].
 - [cite_start]Optimized runtime via recursive backtracking to eliminate redundant object cloning, achieving a **95% success rate** within 10 seconds[cite: 12, 13].
 
-#### [cite_start][SafeStride](https://github.com/arminahmadi/safestride) (Sept 2025) [cite: 19]
+#### [SafeStride](https://github.com/arminahmadi/safestride) (Sept 2025) [cite: 19]
 - [cite_start]Built a web application that maps safe running routes by integrating neighborhood crime data and geolocation APIs[cite: 20].
 - [cite_start]Collaborated in a high-pressure team environment during the **2025 SFU Fall Hacks**[cite: 22].
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arminahmadi&show_icons=true&theme=tokyonight&count_private=true" alt="Armin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminahmadi&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arminahmadi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Armin Ahmadi</sub>
-</div>
