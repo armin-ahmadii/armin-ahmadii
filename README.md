@@ -6,8 +6,8 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/arminahmadio6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:aaa360@sfu.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/arminahmadi06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:armin@arminahmadi.cc"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://arminahmadi.cc"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
